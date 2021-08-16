@@ -1,4 +1,4 @@
-# Some SVM
+# Some SVMs
 ## Table of Contents
 
 - [Introduction](#intro)
